@@ -12,5 +12,5 @@ public class GlobalVariables : MonoBehaviour {
 	public static float healingTime = 1f;				//ogni quanto tempo si cura il personaggio
 	public static float healing = 0.5f;					//di quanto si cura il personaggio
 	public static float menuVelocity = 0.3f;			//di quanto si muovono i tubi nel menu
-
+	public static bool highscoreBool = false;				//booleano che mi dice quando sto facendo un highscore
 }

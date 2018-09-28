@@ -89,12 +89,19 @@ public class PlayerController : MonoBehaviour {
 
 			//controllo se score > highscore e salvo in PlayerPref
 			if (score > highScore){
-				SoundManagerScript.PlaySound("new record");
+
+				//controllo che non sia la prima volta in cui batto il record
+				if (GlobalVariables.highscoreBool == false){
+					SoundManagerScript.PlaySound("new record");
+					GlobalVariables.highscoreBool = true;
+				}else{
+					SoundManagerScript.PlaySound("point");
+				}
+
 				highScore = score;
 				PlayerPrefs.SetInt ("highScore", highScore);
 				setHighScoreText ();
-			}
-			else{
+			}else{
 				SoundManagerScript.PlaySound("point");
 			}
 		}
@@ -131,6 +138,7 @@ public class PlayerController : MonoBehaviour {
 		vita.SetActive (false);
 
 		SoundManagerScript.PlaySound("death");
+		GlobalVariables.highscoreBool = false;
 
 		//non so perchè ma per far si che venga fuori il DiePanel devo per forza metterci questo IF
 		//se non lo metto schifa quel pannello perchè è uno stronzo

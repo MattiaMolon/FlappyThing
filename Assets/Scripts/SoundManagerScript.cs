@@ -37,7 +37,7 @@ public class SoundManagerScript : MonoBehaviour {
 			case "death":
 				audioSrc.PlayOneShot(death);
 				break;
-			case "newRecord":
+			case "new record":
 				audioSrc.PlayOneShot(newRecord);
 				break;
 			case "point":
