@@ -1,0 +1,90 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.1 (vita e lifebar)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.1 (vita e lifebar)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.1 (vita e lifebar)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.1 (vita e lifebar)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.1 (vita e lifebar)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.1 (vita e lifebar)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.1 (vita e lifebar)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.1 (vita e lifebar)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.019 seconds
+Platform assembly: C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.1 (vita e lifebar)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.1 (vita e lifebar)_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.448880 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.267446 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.142221 ms (FindLiveObjects: 0.013827 ms CreateObjectMapping: 0.011456 ms MarkObjects: 0.114172 ms  DeleteObjects: 0.002765 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.338172 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.212147 ms (FindLiveObjects: 0.030024 ms CreateObjectMapping: 0.012641 ms MarkObjects: 0.166320 ms  DeleteObjects: 0.002765 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.335801 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.186863 ms (FindLiveObjects: 0.035950 ms CreateObjectMapping: 0.013827 ms MarkObjects: 0.133925 ms  DeleteObjects: 0.003160 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.281283 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.200295 ms (FindLiveObjects: 0.038715 ms CreateObjectMapping: 0.013432 ms MarkObjects: 0.144592 ms  DeleteObjects: 0.002765 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.647385 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.173036 ms (FindLiveObjects: 0.017777 ms CreateObjectMapping: 0.013037 ms MarkObjects: 0.123258 ms  DeleteObjects: 0.003160 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.319209 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.207801 ms (FindLiveObjects: 0.031999 ms CreateObjectMapping: 0.013037 ms MarkObjects: 0.159604 ms  DeleteObjects: 0.002765 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.329085 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.259950 ms (FindLiveObjects: 0.065580 ms CreateObjectMapping: 0.014222 ms MarkObjects: 0.177382 ms  DeleteObjects: 0.002765 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.345283 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.206616 ms (FindLiveObjects: 0.054913 ms CreateObjectMapping: 0.013037 ms MarkObjects: 0.135505 ms  DeleteObjects: 0.003160 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.264690 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.166715 ms (FindLiveObjects: 0.030024 ms CreateObjectMapping: 0.012641 ms MarkObjects: 0.120493 ms  DeleteObjects: 0.003160 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.293925 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 0.163555 ms (FindLiveObjects: 0.019753 ms CreateObjectMapping: 0.012641 ms MarkObjects: 0.126814 ms  DeleteObjects: 0.003555 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2b98 -> priority: 1 
+  Thread -> id: 598 -> priority: 1 
+  Thread -> id: 2b14 -> priority: 1 
+  Thread -> id: 3a78 -> priority: 1 

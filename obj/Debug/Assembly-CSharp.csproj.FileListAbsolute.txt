@@ -1,0 +1,186 @@
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\nunit.framework.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\UnityEditor.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\UnityEngine.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\Mono.Cecil.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\Unity.DataContract.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\UnityEngine.xml
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\UnityEditor.xml
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\nunit.framework.xml
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Mattia\unity\fappy bird\fappy bird\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Mattia\unity\fappy bird\fappy bird\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Mattia\unity\fappy bird\fappy bird\obj\Debug\Assembly-CSharp.dll
+C:\Mattia\unity\fappy bird\fappy bird\obj\Debug\Assembly-CSharp.pdb
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\nunit.framework.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\UnityEditor.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\UnityEngine.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\Mono.Cecil.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\Unity.DataContract.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\UnityEngine.xml
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\UnityEditor.xml
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\nunit.framework.xml
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\obj\Debug\Assembly-CSharp.dll
+C:\Mattia\unity\fappy bird V.2\fappy bird V.2\obj\Debug\Assembly-CSharp.pdb
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\nunit.framework.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\UnityEditor.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\UnityEngine.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\Mono.Cecil.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\Unity.DataContract.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\UnityEngine.xml
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\UnityEditor.xml
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\nunit.framework.xml
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\obj\Debug\Assembly-CSharp.dll
+C:\Mattia\unity\flappy coso\flappy coso test miglioramento\obj\Debug\Assembly-CSharp.pdb
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\nunit.framework.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\UnityEditor.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\UnityEngine.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\Mono.Cecil.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\Unity.DataContract.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\UnityEngine.xml
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\UnityEditor.xml
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\nunit.framework.xml
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\obj\Debug\Assembly-CSharp.dll
+C:\Mattia\unity\flappy coso\flappy coso - Tentativo Menu\obj\Debug\Assembly-CSharp.pdb
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\nunit.framework.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\UnityEditor.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\UnityEngine.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\Mono.Cecil.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\Unity.DataContract.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\UnityEngine.xml
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\UnityEditor.xml
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\nunit.framework.xml
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Mattia\unity\flappy coso\flappy coso\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Mattia\unity\flappy coso\flappy coso\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Mattia\unity\flappy coso\flappy coso\obj\Debug\Assembly-CSharp.dll
+C:\Mattia\unity\flappy coso\flappy coso\obj\Debug\Assembly-CSharp.pdb
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\nunit.framework.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\UnityEditor.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\UnityEngine.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\Mono.Cecil.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\Unity.DataContract.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\UnityEngine.xml
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\UnityEditor.xml
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\nunit.framework.xml
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Mattia\unity\flappy coso\flappy coso - Copy\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Mattia\unity\flappy coso\flappy coso - Copy\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Mattia\unity\flappy coso\flappy coso - Copy\obj\Debug\Assembly-CSharp.dll
+C:\Mattia\unity\flappy coso\flappy coso - Copy\obj\Debug\Assembly-CSharp.pdb

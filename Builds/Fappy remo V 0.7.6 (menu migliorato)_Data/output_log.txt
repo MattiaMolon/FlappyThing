@@ -1,0 +1,42 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8569
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.6 (menu migliorato)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.6 (menu migliorato)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.6 (menu migliorato)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.6 (menu migliorato)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.6 (menu migliorato)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.6 (menu migliorato)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.6 (menu migliorato)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.6 (menu migliorato)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.134 seconds
+Platform assembly: C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.6 (menu migliorato)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.6 (menu migliorato)_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.693429 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.550516 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 318.
+Total: 0.172246 ms (FindLiveObjects: 0.015407 ms CreateObjectMapping: 0.013432 ms MarkObjects: 0.127604 ms  DeleteObjects: 0.015407 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.457876 ms
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 356.
+Total: 0.278913 ms (FindLiveObjects: 0.033975 ms CreateObjectMapping: 0.013037 ms MarkObjects: 0.206222 ms  DeleteObjects: 0.024888 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 270c -> priority: 1 
+  Thread -> id: 1130 -> priority: 1 
+  Thread -> id: 2de8 -> priority: 1 
+  Thread -> id: 7fc -> priority: 1 

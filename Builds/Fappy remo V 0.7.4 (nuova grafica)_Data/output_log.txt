@@ -1,0 +1,42 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.4 (nuova grafica)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.4 (nuova grafica)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.4 (nuova grafica)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.4 (nuova grafica)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.4 (nuova grafica)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.4 (nuova grafica)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.4 (nuova grafica)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.4 (nuova grafica)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.018 seconds
+Platform assembly: C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.4 (nuova grafica)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Mattia\unity\fappy bird V.2\fappy bird V.2\Builds\Fappy remo V 0.7.4 (nuova grafica)_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.401078 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.319199 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 0.163160 ms (FindLiveObjects: 0.017777 ms CreateObjectMapping: 0.013037 ms MarkObjects: 0.128394 ms  DeleteObjects: 0.003555 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.301036 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 299.
+Total: 0.217678 ms (FindLiveObjects: 0.056888 ms CreateObjectMapping: 0.030814 ms MarkObjects: 0.125629 ms  DeleteObjects: 0.003555 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 39e0 -> priority: 1 
+  Thread -> id: 3604 -> priority: 1 
+  Thread -> id: 2698 -> priority: 1 
+  Thread -> id: 3d90 -> priority: 1 

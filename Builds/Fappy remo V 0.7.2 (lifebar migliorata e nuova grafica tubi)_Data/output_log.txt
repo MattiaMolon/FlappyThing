@@ -1,0 +1,60 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8569
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.2 (lifebar migliorata e nuova grafica tubi)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.2 (lifebar migliorata e nuova grafica tubi)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.2 (lifebar migliorata e nuova grafica tubi)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.2 (lifebar migliorata e nuova grafica tubi)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.2 (lifebar migliorata e nuova grafica tubi)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.2 (lifebar migliorata e nuova grafica tubi)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.2 (lifebar migliorata e nuova grafica tubi)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.2 (lifebar migliorata e nuova grafica tubi)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.144 seconds
+Platform assembly: C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.2 (lifebar migliorata e nuova grafica tubi)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Mattia\unity\flappy coso\flappy coso - Copy\Builds\Fappy remo V 0.7.2 (lifebar migliorata e nuova grafica tubi)_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.592293 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.707551 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.157629 ms (FindLiveObjects: 0.016592 ms CreateObjectMapping: 0.013037 ms MarkObjects: 0.124444 ms  DeleteObjects: 0.003160 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.296296 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.211357 ms (FindLiveObjects: 0.035950 ms CreateObjectMapping: 0.012641 ms MarkObjects: 0.143802 ms  DeleteObjects: 0.002765 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.312493 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.152888 ms (FindLiveObjects: 0.018567 ms CreateObjectMapping: 0.011851 ms MarkObjects: 0.118518 ms  DeleteObjects: 0.003160 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.314073 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.234271 ms (FindLiveObjects: 0.051357 ms CreateObjectMapping: 0.014222 ms MarkObjects: 0.165530 ms  DeleteObjects: 0.002765 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.254024 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.193580 ms (FindLiveObjects: 0.035555 ms CreateObjectMapping: 0.012246 ms MarkObjects: 0.142222 ms  DeleteObjects: 0.003160 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 3064 -> priority: 1 
+  Thread -> id: 2c74 -> priority: 1 
+  Thread -> id: ec4 -> priority: 1 
+  Thread -> id: 2e88 -> priority: 1 
